@@ -5,6 +5,8 @@
 
 -🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/second-js-trick/)
 
+-calculate BMI
+
 - Developed by amirhoseain khodagholizadeh
 
 - Created - 2025/7
